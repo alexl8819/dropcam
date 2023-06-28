@@ -15,13 +15,13 @@
   "scripts": {
     "test": "mocha"
   },
-  "repository": "https://github.com/alexlincoln/dropcam",
+  "repository": "https://github.com/alexl8819/dropcam",
   "keywords": [
     "dropcam",
     "video",
     "webcam",
     "stream"
   ],
-  "author": "alexlincoln",
+  "author": "alexl8819",
   "license": "MIT"
 }
